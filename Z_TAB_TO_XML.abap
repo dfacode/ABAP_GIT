@@ -3,7 +3,7 @@
 *&
 *&---------------------------------------------------------------------*
 *&
-*& "Easy conversion of intenak table for XML format
+*& "Easy conversion of internal table for XML format
 *&---------------------------------------------------------------------*
 
 REPORT z_tab_to_xml.
